@@ -1,13 +1,6 @@
 # DSA
-This repo is where I’m documenting my journey through Striver’s DSA A2Z Sheet.
 
-structure:
+<h1>This repo is where I’m documenting my journey through DSA</h1>
 
-Step 1: Learn the Basics
-    #Lec1- Things to know in C++/Java/Python or any language 
-        # 01: User Input/Output
-        # 02: If Else statements
-        
-    #Lec2-Build up Logical Thinking
-        Patterns(22) : 2 Done
-
+## Structure
+- `/Patterns`: Contains pattern-based DSA problems and solutions.
