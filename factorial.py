@@ -6,7 +6,7 @@ fact = 1
 for i in range(1, number + 1):
     fact = fact * i 
 
-print(fact)
+print(f"factorial of {number} is: {fact}")
 
 
 # Trace of Execution:
