@@ -1,9 +1,9 @@
 # Vowels_counting 
 
-vowels = ["a", "e", "i", "o", "u"]
+vowels = ["a", "e", "i", "o", "u" , "A", "E", "I", "O", "U"]
 count = 0    
 
-string = input("Enter a String: ").lower() 
+string = input("Enter a String: ")
 
 for char in string: 
     if char in vowels: # in operator checks if the character is in the vowels list
